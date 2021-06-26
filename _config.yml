@@ -29,6 +29,9 @@ url: "https://petbioifam.github.io/petbioifam/" # the base hostname & protocol f
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Author
+author: Ryan Tolosa
+
 # Build settings
 theme: minima
 plugins:
