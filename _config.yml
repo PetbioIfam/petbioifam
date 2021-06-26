@@ -32,6 +32,10 @@ github_username:  jekyll
 # Author
 author: Ryan Tolosa
 
+# NEW FIELDS NOT INLCUDED IN THE MINIMA THEME
+# Copyright
+copyright: "©ChipNinjaPlay 2021"
+
 # Build settings
 theme: minima
 plugins:
