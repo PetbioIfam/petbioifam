@@ -38,6 +38,8 @@ copyright: "ChipNinjaPlay"
 
 # Build settings
 
+# removed minima theme, creating a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
