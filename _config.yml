@@ -34,10 +34,10 @@ author: Ryan Tolosa
 
 # NEW FIELDS NOT INLCUDED IN THE MINIMA THEME
 # Copyright
-copyright: "©ChipNinjaPlay 2021"
+copyright: "ChipNinjaPlay"
 
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
 
